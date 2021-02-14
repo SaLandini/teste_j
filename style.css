@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@1,900&display=swap');
+
+html {
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+input[type="submit" i], input[type="text" i] {
+    padding: 10px;
+    color: whitesmoke;
+    background-color: black;
+    border-color: rebeccapurple;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+#closed{
+    margin-top: 20px;
+    background-color: whitesmoke;
+    color: rgb(10, 10, 10);
+    border: solid 1px rebeccapurple;
+    border-radius: 40px;
+}
